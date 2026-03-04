@@ -4,15 +4,19 @@ Platform IntelliJ IDEA 2025.2
 
 project tree:
 
--MainApp
+    -MainApp
 
 attack:
+
     -BruteForce
     -StatisticalAnalyzer
+
 cipher:
+
     -Cipher
     -CipherAlphavit
 exception:
+
     -CaesarCodingException
     -ConsoleDialoque
     -Dialoque
@@ -20,10 +24,14 @@ exception:
     -InvalidUserInputException
     -Operation
 file:
+
     -CipherCoder
     -FileManager
+
 other:
+
 validation:
+
     -Validator
 
 
